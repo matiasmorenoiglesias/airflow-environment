@@ -37,6 +37,7 @@ Ejemplo de entorno con **Airflow 3.1**, Docker Compose y DAGs con **Datasets** p
 ## 🚀 Levantando el entorno
 
 ```bash
+make init 
 make up
 ```
 
